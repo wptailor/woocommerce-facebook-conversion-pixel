@@ -2,7 +2,7 @@
     "name": "wptailor/woocommerce-facebook-conversion-pixel",
     "description": "Set up the Facebook conversion pixel and event tracking for WooCommerce",
     "type": "wordpress-plugin",
-    "license": "GPLv3",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Antti Kuosmanen",
